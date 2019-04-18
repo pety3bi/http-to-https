@@ -15,5 +15,5 @@ Usage:
 --------
 
 ```bash
-docker run -d -p80:80 pety3bi/http2https:latest``.
+docker run -d -p80:80 pety3bi/http2https:latest
 ```
