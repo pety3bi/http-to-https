@@ -1,9 +1,6 @@
 HTTP to HTTPS
 =============
 
-sslh
-========
-
 [![Docker Pulls](https://img.shields.io/docker/pulls/pety3bi/http2https.svg)](https://hub.docker.com/r/pety3bi/http2https/)
 
 The web is moving to TLS. This is a Docker container that forces browser
