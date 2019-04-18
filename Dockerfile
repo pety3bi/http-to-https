@@ -1,8 +1,4 @@
-# NOTE: Don't modify this file directly - see Makefile
-
-FROM alpine:{{ .AlpineVersion }}
-
-LABEL git.commithash="{{ .GitCommit }}"
+FROM alpine:latest
 
 RUN apk --update --no-cache add nginx
 
